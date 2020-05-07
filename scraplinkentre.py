@@ -78,7 +78,7 @@ if __name__=="__main__":
     fd = open("linkentre.csv", "r")
     stringlink = fd.read()
     list = stringlink.split('\n')
-    while i < 20:
+    while i < 1000:
         url = list[i]
         my_scrap_html_script(url)
         my_scrap_no_script()
