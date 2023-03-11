@@ -9,4 +9,4 @@ Install    => npm install
 
 Run        => node app.js
 
-Projet coder pour mon projet en partenariat avec l'EM Lyon en 2020
+Projet coder pour le partenariat avec l'EM Lyon en 2020
